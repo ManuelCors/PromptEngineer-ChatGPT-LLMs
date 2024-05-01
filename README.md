@@ -1,2 +1,2 @@
-# PromptEngineer-ChatGPT-LLMs
+# Generative AI | Prompt Engineer
 Good practice and projects of Generative Artificial Intelligence.
